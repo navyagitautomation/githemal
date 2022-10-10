@@ -17,7 +17,7 @@ public class steodefnition {
 	@When("user navigates to Login Page")
 	public void user_navigates_to_login_page() {
 	    // Write code here that turns the phrase above into concrete actions
-		 System.out.println("When");
+		 System.out.println("When i am in git");
 
 	}
 
